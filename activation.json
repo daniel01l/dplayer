@@ -1,4 +1,4 @@
 {
-  "payload": "{\"v\":1,\"ts\":1794094209159,\"devices\":{\"RTF4-YFK9\":{\"s\":\"\",\"n\":\"\",\"t\":1794094209159,\"f\":\"a\"}}}",
-  "sig": "MEUCIQDPalCFcnaEPU1MWFSULAakIf3zG9Mkk7C33oh1xMuoVAIgDiiPwh9aJ3weMe0ke4ae9zGjF7jwCLR+NJDlsGXxK78="
+  "payload": "{\"v\":1,\"ts\":1794094421704,\"devices\":{\"RTF4-YFK9\":{\"s\":\"\",\"n\":\"Emulator Asus\",\"t\":1794094209159,\"f\":\"a\"}}}",
+  "sig": "MEUCIQChwTnarK71PjIOM55\/3HKizCsssKZ8Qz\/JKzWLTYW\/QwIgP5iHhurqX98g7jGR+wBYGzIoUwdz5ZBcqjCaCPR18Js="
 }
