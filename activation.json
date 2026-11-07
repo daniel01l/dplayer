@@ -1,4 +1,4 @@
 {
-  "payload": "{\"v\":1,\"ts\":1794094183562,\"devices\":{}}",
-  "sig": "MEQCIE\/jUir\/GrP+UWNR9acLJ\/\/pwpNb+B1f\/72kXh2Su1TlAiAQ7klJLlKr3ePbHZixyqxV1v20WdOf5GXrPo4feEb9RA=="
+  "payload": "{\"v\":1,\"ts\":1794094209159,\"devices\":{\"RTF4-YFK9\":{\"s\":\"\",\"n\":\"\",\"t\":1794094209159,\"f\":\"a\"}}}",
+  "sig": "MEUCIQDPalCFcnaEPU1MWFSULAakIf3zG9Mkk7C33oh1xMuoVAIgDiiPwh9aJ3weMe0ke4ae9zGjF7jwCLR+NJDlsGXxK78="
 }
