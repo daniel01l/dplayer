@@ -1,4 +1,4 @@
 {
-  "payload": "{\"v\":1,\"ts\":1794094668076,\"devices\":{\"KTN7-738Y\":{\"s\":\"\",\"n\":\"\",\"t\":1794094668076,\"f\":\"a\"},\"RTF4-YFK9\":{\"s\":\"\",\"n\":\"Emulator Asus\",\"t\":1794094209159,\"f\":\"a\"}}}",
-  "sig": "MEQCIFZoScQoFKBYIwwUUUBlRMBOGehob7UAqFoliJmeQeEFAiAAoUqt63YTI\/VOg8N9+i1w4bDUZBq5mFUjZnqVo2INGg=="
+  "payload": "{\"v\":1,\"ts\":1794094690316,\"devices\":{\"KTN7-738Y\":{\"s\":\"\",\"n\":\"Telefon\",\"t\":1794094668076,\"f\":\"a\"},\"RTF4-YFK9\":{\"s\":\"\",\"n\":\"Emulator Asus\",\"t\":1794094209159,\"f\":\"a\"}}}",
+  "sig": "MEQCIG7f+9wskFeAru2PaUwZZO83DbGrhvo0tvO7fXG4k0nDAiAH3jBim3MlWdzJ5tGzYUOPNj3CiAPHd5sfeIkWL2uivQ=="
 }
