@@ -1,4 +1,4 @@
 {
-  "payload": "{\"v\":1,\"ts\":1794130324897,\"devices\":{\"7YJK-U5AB\":{\"s\":\"\",\"n\":\"Tomawa\",\"t\":1794130324897,\"f\":\"a\"},\"KTN7-738Y\":{\"s\":\"\",\"n\":\"Telefon\",\"t\":1794094668076,\"f\":\"a\"},\"RTF4-YFK9\":{\"s\":\"\",\"n\":\"Emulator Asus\",\"t\":1794094209159,\"f\":\"a\"}}}",
-  "sig": "MEUCIEcTZCaYffcXtJ0j94Cn3+0JhMqc1PaJjC2Z\/xPz4yFaAiEAoFrQKobkaceTDNpoIMuHiCMO2NtiHOODbS+q6zWLtfU="
+  "payload": "{\"v\":1,\"ts\":1794163963822,\"devices\":{\"7YJK-U5AB\":{\"s\":\"\",\"n\":\"Tomawa\",\"t\":1794130324897,\"f\":\"a\"},\"KTN7-738Y\":{\"s\":\"\",\"n\":\"Telefon\",\"t\":1794094668076,\"f\":\"a\"},\"RTF4-YFK9\":{\"s\":\"\",\"n\":\"Emulator Asus\",\"t\":1794094209159,\"f\":\"a\"},\"VZ6W-8MFA\":{\"s\":\"\",\"n\":\"\",\"t\":1794163963822,\"f\":\"a\"}}}",
+  "sig": "MEUCIQD3+HJDPrvIhAmzCn\/e9Pox\/vZhxi+HGNRvvW6\/zK5O\/QIgE\/yixK2mFvsRuktN\/HmWJNOJ6FgRCZqeyD+app6NDQk="
 }
