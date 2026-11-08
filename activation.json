@@ -1,4 +1,4 @@
 {
-  "payload": "{\"v\":1,\"ts\":1794130025170,\"devices\":{\"7YJK-U5AB\":{\"s\":\"\",\"n\":\"\",\"t\":1794130025170,\"f\":\"a\"},\"KTN7-738Y\":{\"s\":\"\",\"n\":\"Telefon\",\"t\":1794094668076,\"f\":\"a\"},\"RTF4-YFK9\":{\"s\":\"\",\"n\":\"Emulator Asus\",\"t\":1794094209159,\"f\":\"a\"}}}",
-  "sig": "MEUCIQDpA+SeHKuhyMao4T\/bm84SNcB4KHOzz1bzaPaq0duacQIgDoPX4LKd+aC3wobJGz1J8u+3Tpya0Wp53lZNbmVLhJY="
+  "payload": "{\"v\":1,\"ts\":1794130036948,\"devices\":{\"7YJK-U5AB\":{\"s\":\"\",\"n\":\"Tomawa Tcl\",\"t\":1794130025170,\"f\":\"a\"},\"KTN7-738Y\":{\"s\":\"\",\"n\":\"Telefon\",\"t\":1794094668076,\"f\":\"a\"},\"RTF4-YFK9\":{\"s\":\"\",\"n\":\"Emulator Asus\",\"t\":1794094209159,\"f\":\"a\"}}}",
+  "sig": "MEYCIQDFtd4sS8zbs5ogFuI2XqXHt7y4xTdd+5vnWbmZ4S1L4QIhAKKauQHnUCtx1xhBEGqXuwXUTdGmwOJUPOu5QufdttcJ"
 }
