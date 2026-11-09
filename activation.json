@@ -1,4 +1,4 @@
 {
-  "payload": "{\"v\":1,\"ts\":1794215684892,\"devices\":{\"3A5B-PH5V\":{\"s\":\"\",\"n\":\"\",\"t\":1794215684892,\"f\":\"a\"},\"7YJK-U5AB\":{\"s\":\"\",\"n\":\"Tomawa\",\"t\":1794130324897,\"f\":\"a\"},\"KTN7-738Y\":{\"s\":\"\",\"n\":\"Telefon\",\"t\":1794094668076,\"f\":\"a\"},\"RTF4-YFK9\":{\"s\":\"\",\"n\":\"Emulator Asus\",\"t\":1794094209159,\"f\":\"a\"},\"VZ6W-8MFA\":{\"s\":\"\",\"n\":\"Łódź\",\"t\":1794163963822,\"f\":\"a\"}}}",
-  "sig": "MEUCIQDFwqs3joAdY+BTpv1VhJwq5KkmjoW3NWTuTKmXe0rItgIgFDejs7gphGyeJYa+58t43ordfx2R2O\/72TOa1oSL6ms="
+  "payload": "{\"v\":1,\"ts\":1794215708135,\"devices\":{\"3A5B-PH5V\":{\"s\":\"\",\"n\":\"Projektor Łódź\",\"t\":1794215684892,\"f\":\"a\"},\"7YJK-U5AB\":{\"s\":\"\",\"n\":\"Tomawa\",\"t\":1794130324897,\"f\":\"a\"},\"KTN7-738Y\":{\"s\":\"\",\"n\":\"Telefon\",\"t\":1794094668076,\"f\":\"a\"},\"RTF4-YFK9\":{\"s\":\"\",\"n\":\"Emulator Asus\",\"t\":1794094209159,\"f\":\"a\"},\"VZ6W-8MFA\":{\"s\":\"\",\"n\":\"Łódź\",\"t\":1794163963822,\"f\":\"a\"}}}",
+  "sig": "MEQCIHY2\/zYyotWnh126DD5YqZ9R66E9u8ob+k9KTeWlkfzFAiBen5DfTkcB\/ZISBXxWh7hWSzobUexQK8XBfkBhet5IEg=="
 }
