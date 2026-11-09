@@ -1,4 +1,4 @@
 {
-  "payload": "{\"v\":1,\"ts\":1794224756597,\"devices\":{\"2CHC-RM55\":{\"s\":\"\",\"n\":\"Projektor Łódź\",\"t\":1794224756597,\"f\":\"a\"},\"3A5B-PH5V\":{\"s\":\"\",\"n\":\"Projektor Łódź\",\"t\":1794215684892,\"f\":\"a\"},\"7YJK-U5AB\":{\"s\":\"\",\"n\":\"Tomawa\",\"t\":1794130324897,\"f\":\"a\"},\"KTN7-738Y\":{\"s\":\"\",\"n\":\"Telefon\",\"t\":1794094668076,\"f\":\"a\"},\"RTF4-YFK9\":{\"s\":\"\",\"n\":\"Emulator Asus\",\"t\":1794094209159,\"f\":\"a\"},\"VZ6W-8MFA\":{\"s\":\"\",\"n\":\"Łódź\",\"t\":1794163963822,\"f\":\"a\"}}}",
-  "sig": "MEYCIQDM\/5vmM6HvAcsv6HIAZbnslBuGaKrIUQkpLaEDx+gizgIhAJ4GIfkVA6QiNTq+Bq4XX8p5QVVjAJhMuoci+rcahXik"
+  "payload": "{\"v\":1,\"ts\":1794224871389,\"devices\":{\"2CHC-RM55\":{\"s\":\"\",\"n\":\"Projektor Tomawa\",\"t\":1794224756597,\"f\":\"a\"},\"3A5B-PH5V\":{\"s\":\"\",\"n\":\"Projektor Łódź\",\"t\":1794215684892,\"f\":\"a\"},\"7YJK-U5AB\":{\"s\":\"\",\"n\":\"Tomawa\",\"t\":1794130324897,\"f\":\"a\"},\"KTN7-738Y\":{\"s\":\"\",\"n\":\"Telefon\",\"t\":1794094668076,\"f\":\"a\"},\"RTF4-YFK9\":{\"s\":\"\",\"n\":\"Emulator Asus\",\"t\":1794094209159,\"f\":\"a\"},\"VZ6W-8MFA\":{\"s\":\"\",\"n\":\"Łódź\",\"t\":1794163963822,\"f\":\"a\"}}}",
+  "sig": "MEUCIQCWo2QuKhoAd+Gzp31QY67su7TLJl1lsyeOE8z9w8cAjQIgb9VdVUlrkRskcHlOtQ8PWw3AJoOQmOkkXmA91Fo8VjY="
 }
